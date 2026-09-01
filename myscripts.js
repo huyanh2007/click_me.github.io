@@ -27,7 +27,8 @@ const noTexts = ["Are you sure?",
                  "Tu es ma joie de vivre",
                  "Tu es mon rayon de soleil",
                  "La vie est une fleur dont l’amour est le miel.",
-                 "Je t’aime de tout mon coeur"];
+                 "Je t’aime de tout mon coeur",
+                 "Je cède à ton obstination. 😀"];
 let noCount = 0;
 
 document.getElementById('noBtn').addEventListener('click', () => {
