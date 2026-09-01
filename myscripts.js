@@ -1,5 +1,5 @@
 let fontSize = 1.5; // Đơn vị rem
-const noTexts = ["Are you sure?", "Really sure??", "Pookie please...", "Think about it!" ,"I will be very up sad !","Come on !" ,"Think about it !"];
+const noTexts = ["Are you sure?", "Really sure??", "Pookie please...", "Think about it!" ,"I will be very up sad !","Come on !" ,"Can you considering it again ?" , "You are the apple in my eyes" , "You are almost better than chocolate !" , "You complete me" , "Are you a thief? Cause you stole my heart" , "I need you like a heart needs a beat",  "I'm not good at anything ... execpt loving you" ,"Loving you is like breathing. I just can't stop" ,"You light up my life" , "You are my destiny" , "I can't stop thinking about you" , "Once meeting you , nobody else matters."];
 let noCount = 0;
 
 document.getElementById('noBtn').addEventListener('click', () => {
