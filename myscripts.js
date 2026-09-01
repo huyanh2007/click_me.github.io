@@ -21,7 +21,13 @@ const noTexts = ["Are you sure?",
                  "It's said that nothing lasts forever. Will you be my nothing ?",
                  "Even if there wasn't any gravity on earth , I would still fall for you!",
                  "There are many ways to be happy, but the fastest way is seeing you",
-                 "Do you know which side my heart is on ? It's on your side!"];
+                 "Do you know which side my heart is on ? It's on your side!",
+                 "Je t’aime de tout mon coeur",
+                 "Mon amour pour toi est éternel",
+                 "Tu es ma joie de vivre",
+                 "Tu es mon rayon de soleil",
+                 "La vie est une fleur dont l’amour est le miel.",
+                 "Je t’aime de tout mon coeur"];
 let noCount = 0;
 
 document.getElementById('noBtn').addEventListener('click', () => {
